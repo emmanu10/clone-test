@@ -1,0 +1,5 @@
+#!/bin/bash
+#This is a new file
+echo "What is your name?"
+read name
+echo "Hello $name"
